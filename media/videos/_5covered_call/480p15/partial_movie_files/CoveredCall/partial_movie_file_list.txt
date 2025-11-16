@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/1185818338_1013680692_223132457.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_2709853956_3029556804.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_3661100084_3997188814.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_3650117671_193291045.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_1652872083_2921995030.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_3902733901_575681762.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_882717168_3920483272.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_3902733901_1991358722.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_1533209484_1385893650.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_3902733901_1459581113.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_2154437797_1229144906.mp4'
+file 'file:/workspaces/Manim-Vids/media/videos/_5covered_call/480p15/partial_movie_files/CoveredCall/624642324_2834709167_277734063.mp4'
